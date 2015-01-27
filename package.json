@@ -1,0 +1,27 @@
+{
+  "name": "protractor-jasmine-matchers",
+  "version": "0.0.1",
+  "description": "A collection of Jasmine matchers for Protractor end-to-end tests",
+  "author": {
+    "name": "Edgar Gonzalez",
+    "email": "edggonzalezg@gmail.com",
+    "url": "https://github.com/gonzedge"
+  },
+  "homepage": "https://github.com/gonzedge/protractor-jasmine-matchers",
+  "bugs": {
+    "url": "https://github.com/gonzedge/protractor-jasmine-matchers/issues"
+  },
+  "keywords": [
+    "angular",
+    "jasmine",
+    "matchers",
+    "protractor",
+    "test",
+    "testing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gonzedge/protractor-angular-matchers"
+  },
+  "license": "MIT"
+}
